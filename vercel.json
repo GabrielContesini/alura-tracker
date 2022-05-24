@@ -1,18 +1,5 @@
 {
-  "projetos": [
-    {
-      "id": 1,
-      "nome": "Bem vindo"
-    },
-    {
-      "id": 2,
-      "nome": "Ao Alura Tracker"
-    },
-    {
-      "id": 3,
-      "nome": "Cronometre seus estudos por aqui :3"
-    }
-  ],
+  "projetos": [],
   "tarefas": [
     {
       "id": 1,
@@ -25,7 +12,7 @@
     },
     {
       "duracaoEmSegundos": 2,
-      "descricao": "Refatoração do vuex",
+      "descricao": "Refatoração do vuex 4",
       "projeto": {
         "id": 1,
         "nome": "Alura Tracker 3.0"
@@ -42,11 +29,11 @@
       "id": 3
     },
     {
-      "duracaoEmSegundos": 6,
-      "descricao": "teste",
+      "duracaoEmSegundos": 7,
+      "descricao": "Teste",
       "projeto": {
         "id": 3,
-        "nome": "Estudando Padroes de projeto"
+        "nome": "Estudando padrões de projeto"
       },
       "id": 4
     }
